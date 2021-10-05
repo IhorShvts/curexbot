@@ -5,5 +5,5 @@ exports.exchangeUrls = {
 }
 
 exports.token = {
-    value: "991762238:AAFS97rgMG-fzpWrvXVgmITxX12c5VQbmdU"
+    value: "you secret token"
 }
